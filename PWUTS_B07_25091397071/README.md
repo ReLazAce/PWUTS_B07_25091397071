@@ -1,5 +1,9 @@
 # Sistem Informasi Absensi – Dosen
 
+Nama: Vanhan Rheda Wardana
+NIM: 25091397071
+Kelas: 2025B
+
 ## Deskripsi
 Website Dosen merupakan bagian dari Sistem Informasi Absensi Mahasiswa (SIA) yang dirancang untuk membantu dosen memantau kegiatan perkuliahan dan kehadiran mahasiswa. Website ini menggunakan warna hijau sebagai identitas visual dan menyediakan navigasi untuk mengakses informasi akademik.
 
