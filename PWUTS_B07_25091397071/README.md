@@ -1,4 +1,4 @@
-# Sistem Informasi Absensi – Dosen
+# Sistem Informasi Absensi
 
 Nama: Vanhan Rheda Wardana
 NIM: 25091397071
